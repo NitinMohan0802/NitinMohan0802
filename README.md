@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/nitin mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin mohan" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/nitinmohan0802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nitinmohan0802" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nitin_mohan02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nitin_mohan02/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
