@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Machine Learning Project [Langchain chatbot App](https://github.com/NitinMohan0802/Fake-News-Detection.git), [Financial Dashboard](https://github.com/NitinMohan0802/BigMart-Sales-prediction-.git)
+- 🔭 I’m currently working on Machine Learning Project [Langchain chatbot App](https://github.com/NitinMohan0802/Langchain_App), [Financial Dashboard](https://github.com/NitinMohan0802/BigMart-Sales-prediction-.git)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI Devops, LLM, Clouds Architecture, Linux, PowerBI**
 
